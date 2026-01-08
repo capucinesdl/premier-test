@@ -36,3 +36,6 @@ fig_LC50_Kow_reg = df %>%
   xlab("log(Kow)") + ylab("log(1/LC50)")
 
 ggsave("outputs/figs/fig_LC50_Kow_reg.png", fig_LC50_Kow_reg)
+
+#tarte au caca
+#tarte au pipicaca
